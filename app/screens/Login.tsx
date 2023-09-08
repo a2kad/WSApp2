@@ -80,8 +80,10 @@ const styles = StyleSheet.create({
     },
     top: {
         flex: 0.33,
-        marginTop:35,
+        //marginTop:35,
         justifyContent: 'center',
+        backgroundColor: 'green',
+        
     
     },
     middle: {
@@ -92,7 +94,7 @@ const styles = StyleSheet.create({
     bottom: {
         flex: 0.33,
         backgroundColor: 'pink',
-        marginBottom:35,
+        //marginBottom:35,
     },
     textTop:{
         fontSize: 36,
